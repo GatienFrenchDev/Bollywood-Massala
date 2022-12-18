@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Quicksand";
+  src: url(./fonts/Quicksand-Regular.ttf);
+}
+@font-face {
+  font-family: "Quicksand Semi Bold";
+  src: url(./fonts/Quicksand-SemiBold.ttf);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Quicksand";
+  margin: 0;
+  padding: 0;
+}
+
+div.racine{
+  display: grid;
+  grid-template-columns: 2fr 10fr 3fr;
+}

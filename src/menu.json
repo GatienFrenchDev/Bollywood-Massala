@@ -1,0 +1,14 @@
+{
+    "Entrées" : {
+        "Raita" : [3.5, "Yaourt aux concombres, tomates, carrotes, cumins et épices"],
+        "Raita avec Naan Nature": [3.5, "Bing Chilling"],
+        "Raita Pakora": [4.5, "Raita mélangé avec des beignets de légumes"]
+    },
+    "Plats" : {
+        "Sandwich" : [8.5, "Sandwich au poulet"],
+        "Whopper" : [4.5, "Menu Whopper"]
+    },
+    "Accompagnements" : {},
+    "Desserts" : {},
+    "Boissons" : {}
+}
